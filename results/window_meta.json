@@ -1,0 +1,10 @@
+{
+  "n_windows": 1064,
+  "min_length": 30,
+  "max_length": 365,
+  "mean_length": 68.59022556390977,
+  "n_transitions": 1834,
+  "n_clusters": 5,
+  "best_percentile": 51.49884437779523,
+  "best_quantile": 0.1544941480603217
+}

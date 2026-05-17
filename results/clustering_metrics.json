@@ -1,0 +1,74 @@
+{
+  "ARI": 0.8376,
+  "NMI": 0.8665,
+  "Purity": 0.968,
+  "cluster_behaviour_mapping": {
+    "Cluster 2": {
+      "behaviour": "groom",
+      "correct": 251,
+      "total": 259,
+      "accuracy": 0.9691119691119691
+    },
+    "Cluster 1": {
+      "behaviour": "rear",
+      "correct": 190,
+      "total": 190,
+      "accuracy": 1.0
+    },
+    "Cluster 3": {
+      "behaviour": "stretch",
+      "correct": 200,
+      "total": 226,
+      "accuracy": 0.8849557522123894
+    },
+    "Cluster 0": {
+      "behaviour": "walk",
+      "correct": 325,
+      "total": 325,
+      "accuracy": 1.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      0,
+      0,
+      251,
+      0,
+      64
+    ],
+    [
+      0,
+      190,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      200,
+      0
+    ],
+    [
+      325,
+      0,
+      8,
+      26,
+      0
+    ]
+  ],
+  "behaviour_names": [
+    "groom",
+    "rear",
+    "stretch",
+    "walk"
+  ],
+  "cluster_ids": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ]
+}

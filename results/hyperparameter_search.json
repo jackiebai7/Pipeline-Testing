@@ -1,0 +1,156 @@
+{
+  "objective": "maximize ARI",
+  "max_iterations": 10,
+  "percentile_range": [
+    50,
+    100
+  ],
+  "quantile_range": [
+    0.05,
+    0.5
+  ],
+  "search_log": [
+    {
+      "iteration": 1,
+      "percentile": 51.39,
+      "quantile": 0.1025,
+      "n_clusters": 7,
+      "ARI": 0.4829
+    },
+    {
+      "iteration": 2,
+      "percentile": 47.75,
+      "quantile": 0.1223,
+      "n_clusters": 5,
+      "ARI": 0.5669
+    },
+    {
+      "iteration": 3,
+      "percentile": 52.36,
+      "quantile": 0.1677,
+      "n_clusters": 5,
+      "ARI": 0.573
+    },
+    {
+      "iteration": 4,
+      "percentile": 53.92,
+      "quantile": 0.1087,
+      "n_clusters": 11,
+      "ARI": 0.6784
+    },
+    {
+      "iteration": 5,
+      "percentile": 49.22,
+      "quantile": 0.103,
+      "n_clusters": 8,
+      "ARI": 0.6581
+    },
+    {
+      "iteration": 6,
+      "percentile": 47.19,
+      "quantile": 0.1505,
+      "n_clusters": 6,
+      "ARI": 0.7999
+    },
+    {
+      "iteration": 7,
+      "percentile": 45.27,
+      "quantile": 0.1199,
+      "n_clusters": 6,
+      "ARI": 0.7249
+    },
+    {
+      "iteration": 8,
+      "percentile": 51.5,
+      "quantile": 0.1545,
+      "n_clusters": 5,
+      "ARI": 0.8376
+    },
+    {
+      "iteration": 9,
+      "percentile": 47.2,
+      "quantile": 0.1589,
+      "n_clusters": 6,
+      "ARI": 0.8363
+    },
+    {
+      "iteration": 10,
+      "percentile": 53.09,
+      "quantile": 0.1006,
+      "n_clusters": 7,
+      "ARI": 0.6321
+    },
+    {
+      "iteration": 11,
+      "percentile": 53.06,
+      "quantile": 0.1698,
+      "n_clusters": 4,
+      "ARI": 0.7635
+    },
+    {
+      "iteration": 12,
+      "percentile": 48.4,
+      "quantile": 0.1155,
+      "n_clusters": 7,
+      "ARI": 0.5928
+    },
+    {
+      "iteration": 13,
+      "percentile": 54.57,
+      "quantile": 0.1337,
+      "n_clusters": 5,
+      "ARI": 0.5605
+    },
+    {
+      "iteration": 14,
+      "percentile": 45.93,
+      "quantile": 0.1097,
+      "n_clusters": 8,
+      "ARI": 0.5841
+    },
+    {
+      "iteration": 15,
+      "percentile": 53.47,
+      "quantile": 0.1604,
+      "n_clusters": 6,
+      "ARI": 0.7004
+    },
+    {
+      "iteration": 16,
+      "percentile": 53.07,
+      "quantile": 0.173,
+      "n_clusters": 6,
+      "ARI": 0.6961
+    },
+    {
+      "iteration": 17,
+      "percentile": 50.36,
+      "quantile": 0.1973,
+      "n_clusters": 6,
+      "ARI": 0.4647
+    },
+    {
+      "iteration": 18,
+      "percentile": 48.79,
+      "quantile": 0.1552,
+      "n_clusters": 6,
+      "ARI": 0.5564
+    },
+    {
+      "iteration": 19,
+      "percentile": 53.29,
+      "quantile": 0.1619,
+      "n_clusters": 6,
+      "ARI": 0.7181
+    },
+    {
+      "iteration": 20,
+      "percentile": 53.62,
+      "quantile": 0.1577,
+      "n_clusters": 6,
+      "ARI": 0.524
+    }
+  ],
+  "best_percentile": 51.49884437779523,
+  "best_quantile": 0.1544941480603217
+}
