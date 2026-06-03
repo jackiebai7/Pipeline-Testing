@@ -1,4 +1,4 @@
-# VAE Jackie - Rat Skeleton Movement Analysis
+# HRAE Jackie - Rat Skeleton Movement Analysis
 
 A project for generating synthetic rat skeleton movement data and performing unsupervised behavior clustering using a Hierarchical Recurrent Autoencoder (RAE) pipeline with hyperparameter tuning.
 
